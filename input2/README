@@ -1,0 +1,3 @@
+This query should be run as:
+./program1 ./test_data.txt 99 3 4
+The value that is searched for is found nowhere in the input.
